@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CursoAndroidLeccion7</string>
+    <string name="action_settings">Settings</string>
+    <string name="pulsaBoton">Pulsa un botón</string>
+    
+    <string name="lanzaCamaraExterna">Hacer foto cámara Android</string>   
+    <string name="lanzaCamaraPropia">Hacer foto cámara propia</string>
+
+</resources>
